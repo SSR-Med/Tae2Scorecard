@@ -5,3 +5,5 @@ Link: https://drive.google.com/drive/folders/1P46BVVmcSMWzfa_B6ZyyO_q0jSH5UGJH?u
 App: https://ssr-med-secondapptae-app-ayulwi.streamlitapp.com/
 
 Github de la app: https://github.com/SSR-Med/SecondAppTAE/tree/master
+
+Vídeo: https://www.youtube.com/watch?v=zF9KQy9pq3w
